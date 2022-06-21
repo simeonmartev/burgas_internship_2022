@@ -21,6 +21,7 @@ In Amazon Web services, create the necessary resources, which will host the craw
   - basic monitoring of system resources
   - monitoring of crawler and database processes
   - mail/chat/discord alerting for failed runs
+- Configure a basic web interface for the Graphana monitoring tool
 
 Assignemnt Bonus Points for:
 - Install a docker image which will host the crawler and crawled data 
