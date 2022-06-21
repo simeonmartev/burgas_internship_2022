@@ -1,5 +1,5 @@
-# AWS infrastructure task
-version 1
+# AWS infrastructure assignment
+version 2
 
 ## Requirements
 - use AWS free tier accounts for your team deployment
